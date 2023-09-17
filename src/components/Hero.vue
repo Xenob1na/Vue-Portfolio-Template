@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-[950px] mx-auto mt-[80px]" v-motion-roll-visible-bottom>
+    <div class="max-w-[950px] mx-auto mt-[80px]" v-motion-pop-visible>
         <div class="max-w-[330px] mx-auto mb-[10px]">
             <img src="/img/Avatar.svg" alt="">
         </div>
