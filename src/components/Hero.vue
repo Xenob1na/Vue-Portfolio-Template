@@ -1,7 +1,7 @@
 <template>
     <div class="max-w-[950px] mx-auto mt-[80px]" v-motion-pop-visible>
         <div class="max-w-[330px] mx-auto mb-[10px]">
-            <img src="/img/Avatar.svg" alt="">
+            <img src="/img/Avatar.svg" alt="" class="cssanimation hu__hu__">
         </div>
         <div>
             <h1 class="text-[96px] font-bold leading-[133%] text text-center font-spacemono mb-[90px]">Hi. I’m Alfredo. A designer.</h1>

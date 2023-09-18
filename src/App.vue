@@ -3,6 +3,7 @@ import Hero from './components/Hero.vue';
 import Skills from './components/Skills.vue';
 import MyJourney from './components/MyJourney.vue';
 import School from './components/School.vue';
+import Mediastream from './components/Mediastream.vue';
 </script>
 
 <template>
@@ -11,5 +12,6 @@ import School from './components/School.vue';
     <Skills />
     <MyJourney />
     <School />
+    <Mediastream />
   </div>
 </template>
