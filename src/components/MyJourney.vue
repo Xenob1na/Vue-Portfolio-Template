@@ -14,7 +14,7 @@
                 <p class="text-[18px] font-normal font-dmsans leading-[177%] text max-w-[335px] mt-[70px]" v-motion-pop-visible>The first time I
                     really came into contact with design I was around five years old. Since I was little I liked
                     to draw Ninja turtles on the wall.</p>
-                    <img src="/img/TMNT.svg" alt="" class="mt-10 ml-[220px] cssanimation hu__hu__" v-motion-pop-visible>
+                    <img src="/img/TMNT.svg" alt="TMNT" class="mt-10 ml-[220px] cssanimation hu__hu__" v-motion-pop-visible>
             </div>
         </div>
     </div>
