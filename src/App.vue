@@ -5,8 +5,9 @@ import MyJourney from './components/MyJourney.vue';
 import School from './components/School.vue';
 import Mediastream from './components/Mediastream.vue';
 import Seeds from './components/Seeds.vue';
-import Faisandu from './components/Faisandu.vue'
-import Santander from './components/Santander.vue'
+import Faisandu from './components/Faisandu.vue';
+import Santander from './components/Santander.vue';
+import Sura from './components/Sura.vue';
 </script>
 
 <template>
@@ -19,5 +20,6 @@ import Santander from './components/Santander.vue'
     <Seeds />
     <Faisandu />
     <Santander />
+    <Sura />
   </div>
 </template>
