@@ -8,6 +8,8 @@ import Seeds from './components/Seeds.vue';
 import Faisandu from './components/Faisandu.vue';
 import Santander from './components/Santander.vue';
 import Sura from './components/Sura.vue';
+import Today from './components/Today.vue';
+import Footer from './components/Footer.vue';
 </script>
 
 <template>
@@ -21,5 +23,7 @@ import Sura from './components/Sura.vue';
     <Faisandu />
     <Santander />
     <Sura />
+    <Today />
+    <Footer />
   </div>
 </template>
